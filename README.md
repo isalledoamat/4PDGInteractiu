@@ -1,3 +1,3 @@
 # 4PDGInteractiu
 ## Retrat company
-[retrat_alba](alba/alba.pdf)
+[retrat_alba](alba.zip)
